@@ -682,7 +682,7 @@ body{
    position: relative;
    overflow: hidden;
 }
-.html-progress{
+.one-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -691,11 +691,11 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:95%;
+    width:1%;
     border-radius: 10px;
     background: #c70039;
 }
-.js-progress{
+.two-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -705,11 +705,11 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:90%;
+    width:1%;
     border-radius: 10px;
     background: #c70039;
 }
-.adobe-progress{
+.three-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -722,7 +722,7 @@ body{
     border-radius: 10px;
     background: #c70039;
 }
-.php-progress{
+.four-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -735,7 +735,7 @@ body{
     background: #c70039;
     transition: all .4s ease;
 }
-.jquery-progress{
+.five-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -748,7 +748,7 @@ body{
     border-radius: 10px;
     background: #c70039;
 }
-.seo-progress{
+.six-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -876,6 +876,7 @@ padding-bottom: 40px;
         height: 400px;
         width: 100%;
         position: relative;
+        border-radius: 5%;
     }
     .portfolio-image{
         height: 400px;
