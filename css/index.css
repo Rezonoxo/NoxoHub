@@ -1237,6 +1237,21 @@ form button:hover{
     font-weight: 400;
     opacity: 1;
 }
+.powrot{
+    height: 70px;
+    width: 500px;
+    background-color: #ffffff;
+    font-family: poppins;
+    font-size: 20pt;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: all .2s ease;
+}
+.powrot:hover{
+    background-color: #d5d5d5;
+    animation-duration: 2s;
+    box-shadow:0px 0px 0px 4px #c70039 ;
+}
 .color-changer{
     height: auto;
     width: auto;
